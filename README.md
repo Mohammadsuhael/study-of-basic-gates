@@ -61,9 +61,14 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
- Developed by: RegisterNumber: 24007235
 
 **PROGRAM**
+ Developed by: Mohammad suhael
+
+
+ 
+ RegisterNumber: 24007235
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
