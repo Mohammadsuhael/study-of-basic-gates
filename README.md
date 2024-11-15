@@ -61,6 +61,7 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
+ Developed by: RegisterNumber: 24007235
 
 **PROGRAM**
 
@@ -78,8 +79,6 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
 ```
-
- Developed by: RegisterNumber: 24007235
  
 **Logic symbol**
 ![Screenshot 2024-11-15 102837](https://github.com/user-attachments/assets/213a607c-ee93-49c1-adc4-02f897e96f3e)
